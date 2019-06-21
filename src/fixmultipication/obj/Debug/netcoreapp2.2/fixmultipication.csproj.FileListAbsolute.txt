@@ -1,0 +1,11 @@
+B:\VisualBasic\language-basics-01\src\fixmultipication\bin\Debug\netcoreapp2.2\fixmultipication.deps.json
+B:\VisualBasic\language-basics-01\src\fixmultipication\bin\Debug\netcoreapp2.2\fixmultipication.runtimeconfig.json
+B:\VisualBasic\language-basics-01\src\fixmultipication\bin\Debug\netcoreapp2.2\fixmultipication.runtimeconfig.dev.json
+B:\VisualBasic\language-basics-01\src\fixmultipication\bin\Debug\netcoreapp2.2\fixmultipication.dll
+B:\VisualBasic\language-basics-01\src\fixmultipication\bin\Debug\netcoreapp2.2\fixmultipication.pdb
+B:\VisualBasic\language-basics-01\src\fixmultipication\obj\Debug\netcoreapp2.2\fixmultipication.csprojAssemblyReference.cache
+B:\VisualBasic\language-basics-01\src\fixmultipication\obj\Debug\netcoreapp2.2\fixmultipication.csproj.CoreCompileInputs.cache
+B:\VisualBasic\language-basics-01\src\fixmultipication\obj\Debug\netcoreapp2.2\fixmultipication.AssemblyInfoInputs.cache
+B:\VisualBasic\language-basics-01\src\fixmultipication\obj\Debug\netcoreapp2.2\fixmultipication.AssemblyInfo.cs
+B:\VisualBasic\language-basics-01\src\fixmultipication\obj\Debug\netcoreapp2.2\fixmultipication.dll
+B:\VisualBasic\language-basics-01\src\fixmultipication\obj\Debug\netcoreapp2.2\fixmultipication.pdb
