@@ -1,4 +1,5 @@
 Problem statement
+
 You are given the String equation containing an equation of the form "A*B=C", where A, B, and C are positive integers that don't have leading zeros. One digit in the equation is missing. Determine and return the correct digit. If the missing digit cannot be determined (i.e., there is no solution or there is more than one solution), return -1 instead.
 
 Definition
